@@ -1,0 +1,8 @@
+﻿  bloom_filter.cpp
+  main.cpp
+f:\实验室\longflow\longflow\main.cpp(123): warning C4244: “=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+f:\实验室\longflow\longflow\main.cpp(127): warning C4244: “=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+f:\实验室\longflow\longflow\main.cpp(146): warning C4244: “=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+f:\实验室\longflow\longflow\main.cpp(150): warning C4244: “=”: 从“__int64”转换到“uint32_t”，可能丢失数据
+  正在生成代码...
+  longFlow.vcxproj -> F:\实验室\longFlow\x64\Debug\longFlow.exe
